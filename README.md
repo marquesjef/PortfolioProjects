@@ -1,1 +1,7 @@
-In this project, I used a covid-19 database in Excel on platform https://ourworldindata.org/covid-deaths and manipulated the data from this database by dividing it into 2 files. After that, I imported these 2 files into SQL Server and made queries to answer some questions.# PortfolioProjects
+#Data Analytics / Business Intelligence
+
+###Education
+
+###Work Experience 
+
+###Projects
